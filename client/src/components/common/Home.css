@@ -1,0 +1,26 @@
+/* Apply Background Image */
+.home-container {
+    background: url('https://img.freepik.com/free-photo/flowers-notebook-near-laptop_23-2147759307.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  /* Content Box Styling */
+  .container {
+    background: rgba(255, 255, 255, 0.85); /* Semi-transparent background for readability */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Additional Box Styling */
+  .info-box {
+    background: #f8f9fa;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 12px;
+  }
+  
